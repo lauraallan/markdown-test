@@ -12,12 +12,6 @@ Images can be created in Github using the Issues tab. Copy and paste content int
 
 ![Image of Yaktocat looking angry](https://octodex.github.com/images/yaktocat.png)
 
-## Task lists
-
-- [x] Learn some cool stuff
-- [ ] Get the qualification
-- [ ] Use it as an example
-
 ## Code
 
 Codeblocks should be language-dependent. Add the language indicator immediately after the opening triple-backticks.
@@ -45,3 +39,28 @@ JSON:
         }
     }
 ```
+
+## Task lists
+
+- [x] Learn some cool stuff
+- [ ] Get the qualification
+- [ ] Use it as an example
+- [ ] Read instructions before going off-piste!
+
+## Other lists
+
+### Numbered lists
+
+1. This is a numbered list.
+2. This is the second bullet point.
+   1. First sub-bullet?
+   1. This is a sub-bullet point.
+   2. And another sub-bullet point.
+     
+### Bulleted lists
+
+- Top level list item.
+- Another top level list item.
+  - Add two spaces to indent and create the sub-bullet point.
+    - Or 4 spaces for a sub-sub-bullet point.
+  
